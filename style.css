@@ -1,0 +1,17 @@
+.container {
+  width: 70%;
+  margin: 10px auto 10px;
+
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 5px 20px 5px;
+}
+
+.header h1{
+  text-align: center;
+}
+
+.header p{
+  text-align: justify;
+}
+
